@@ -207,8 +207,5 @@ Execute Django admin and create details for 10 books
 <img width="1919" height="1018" alt="Screenshot 2026-05-19 121918" src="https://github.com/user-attachments/assets/1f029cd6-df88-4b6a-b4da-543ab30d1a2f" />
 
 
-Include the screenshot of your admin page.
-
-
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
