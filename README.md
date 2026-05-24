@@ -62,8 +62,8 @@ class FoodappConfig(AppConfig):
 
 ## OUTPUT
 
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-05-22 110332.png
 
+![alt text](<Screenshot 2026-05-22 110332.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully 
